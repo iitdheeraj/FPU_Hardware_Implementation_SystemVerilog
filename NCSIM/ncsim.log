@@ -1,0 +1,24 @@
+ncsim(64): 15.20-s086: (c) Copyright 1995-2020 Cadence Design Systems, Inc.
+ncsim: *W,DSEM2009: This SystemVerilog design is simulated as per IEEE 1800-2009 SystemVerilog simulation semantics. Use -disable_sem2009 option for turning off SV 2009 simulation semantics.
+
+-------------------------------------
+Relinquished control to SimVision...
+ncsim> 
+ncsim> source /media/disk1/tools/Cadence/CadenceTools/INCISIVE152/tools/inca/files/ncsimrc
+ncsim> database -open waves -into waves.shm -default
+Created default SHM database waves
+ncsim> probe -create -shm FPU_tb.a_fpn FPU_tb.b_fpn FPU_tb.clk FPU_tb.operation FPU_tb.out FPU_tb.rst
+Created probe 1
+ncsim> run
+-------------------------
+-------------------------
+-------------------------
+-------------------------
+-------------------------
+-------------------------
+Simulation complete via $finish(1) at time 160 NS + 0
+./FPU_tb.sv:76     $finish;
+ncsim> ^C
+ncsim> exit
+ncsim: Memory Usage - 38.6M program + 304.6M data = 343.2M total (346.8M Peak)
+ncsim: CPU Usage - 0.5s system + 0.1s user = 0.6s total (251.9s, 0.2% cpu)
