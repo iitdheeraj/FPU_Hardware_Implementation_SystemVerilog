@@ -1,0 +1,54 @@
+Riviera-PRO 2022.04.117.8517(Linux64) 2023-04-11 03:27:49
+
+Elaboration top modules:
+Verilog Module                fifo_tb
+SystemVerilog Class           environment_1
+SystemVerilog Class           *base_class
+SystemVerilog Class           generator_1
+SystemVerilog Class           driver_1
+SystemVerilog Class           \std::mailbox#(singular) \
+SystemVerilog Class           transaction1
+
+
+------------------------------------------------------------------------------------------
+Verilog Module             | Library | Info | Compiler Version      | Compilation Options
+------------------------------------------------------------------------------------------
+fifo_tb                    | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+top_FPU                    | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+SystemVerilog Interface    | Library | Info | Compiler Version      | Compilation Options
+------------------------------------------------------------------------------------------
+intf                       | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+SystemVerilog Class        | Library | Info | Compiler Version      | Compilation Options
+------------------------------------------------------------------------------------------
+environment_1              | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+*base_class                | vl      |      | 2022.04.117 (Linux64) | <unavailable>
+generator_1                | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+driver_1                   | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+\std::mailbox#(singular) \ | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+transaction1               | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+SystemVerilog Program      | Library | Info | Compiler Version      | Compilation Options
+------------------------------------------------------------------------------------------
+test                       | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+Library                    | Comment
+------------------------------------------------------------------------------------------
+vl                         | Standard Verilog library
+work                       | None
+------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim +access+r
+
+
+The performance of simulation is reduced. Version EDU Edition

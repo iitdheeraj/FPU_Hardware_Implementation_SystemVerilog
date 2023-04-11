@@ -1,0 +1,8 @@
+"../driver_1.sv"	2
+"../generator_1.sv"	2
+"../transaction1.sv"	1
+"../testbench.sv"	1
+"../interface_1.sv"	1
+"../design.sv"	1
+"../random_test.sv"	1
+"../environment_1.sv"	2

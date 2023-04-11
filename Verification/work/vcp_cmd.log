@@ -1,0 +1,1 @@
+ -a -ls -r  -mg mega_x86_64 8 mega.elb mega.dbg mega.itf mega.cli mega.rep mega.ext mega.tms -lc "/home/runner/library.cfg" -w work -b work  -ts 1ns1ns -O2 -o "/home/runner/work/" -p "/home/runner/work/" -tmp "/tmp/15_951958216"  "design.sv" "testbench.sv"  -u "/usr/share/Riviera-PRO/bin/Linux64/systf"  
