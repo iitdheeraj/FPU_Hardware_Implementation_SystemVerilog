@@ -19,4 +19,3 @@ Implement a hardware module in SystemVerilog that models a floating-point unit (
 ![Slide17](https://user-images.githubusercontent.com/64125782/231095664-6edb7bfc-e202-4ce2-83d0-5fad8e52d34f.JPG)
 ![Slide18](https://user-images.githubusercontent.com/64125782/231095669-8563c574-3c7e-491b-bf35-5ca7a67e2a89.JPG)
 ![Slide19](https://user-images.githubusercontent.com/64125782/231095672-468cd286-ae0e-475d-8613-82dc87d0a055.JPG)
-![Slide20](https://user-images.githubusercontent.com/64125782/231095675-a4f78aa6-7cf1-4714-9c8d-a4d4ee645fae.JPG)
